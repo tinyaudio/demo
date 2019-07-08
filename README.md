@@ -4,4 +4,4 @@ This is a simple readme file.
 
 add more text
 
-updates, on a branch
+I hope this isn't a terrible idea
